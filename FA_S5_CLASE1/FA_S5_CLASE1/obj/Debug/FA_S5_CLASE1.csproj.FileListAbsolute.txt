@@ -1,0 +1,7 @@
+D:\Alberth FA\Fundamentos de Algoritmos\FA_S5_CLASE1\FA_S5_CLASE1\bin\Debug\FA_S5_CLASE1.exe.config
+D:\Alberth FA\Fundamentos de Algoritmos\FA_S5_CLASE1\FA_S5_CLASE1\bin\Debug\FA_S5_CLASE1.exe
+D:\Alberth FA\Fundamentos de Algoritmos\FA_S5_CLASE1\FA_S5_CLASE1\bin\Debug\FA_S5_CLASE1.pdb
+D:\Alberth FA\Fundamentos de Algoritmos\FA_S5_CLASE1\FA_S5_CLASE1\obj\Debug\FA_S5_CLASE1.csproj.AssemblyReference.cache
+D:\Alberth FA\Fundamentos de Algoritmos\FA_S5_CLASE1\FA_S5_CLASE1\obj\Debug\FA_S5_CLASE1.csproj.CoreCompileInputs.cache
+D:\Alberth FA\Fundamentos de Algoritmos\FA_S5_CLASE1\FA_S5_CLASE1\obj\Debug\FA_S5_CLASE1.exe
+D:\Alberth FA\Fundamentos de Algoritmos\FA_S5_CLASE1\FA_S5_CLASE1\obj\Debug\FA_S5_CLASE1.pdb
